@@ -1,6 +1,14 @@
 #twoffein-api
 A simple PHP class providing methods to interact with the API of Twoffein
 
+---
+
+# IMPORTANT!
+Twoffein is not existing anymore (See this blogpost: http://bratenfett.net/was-ist-eigentlich-mit-twoffein/).  
+Therefore, this project is no longer supported.
+
+---
+
 ##Usage
 You should take a look at the official API-FAQ of Twoffein: https://twoffein.com/api-faq/
 
